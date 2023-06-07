@@ -1,1 +1,1 @@
-print path
+display the content
